@@ -27,6 +27,12 @@
       "description": "This is a nice stream.",
       "userId": "101606853193147019226",
       "id": 6
+    },
+    {
+      "title": "Nice stream",
+      "description": "this is my stream!",
+      "userId": "105542139728595355123",
+      "id": 7
     }
   ]
 }
